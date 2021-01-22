@@ -1,5 +1,9 @@
 # 列宁选集
 
+[前往下载](https://github.com/balthild/Lenin/releases)
+
+### 说明
+
 目前网上我能找到的 2012 年版《列宁选集》有：
 
 1. 无产阶级图书馆中有第二卷文字 PDF
